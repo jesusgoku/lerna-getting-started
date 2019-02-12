@@ -1,0 +1,10 @@
+{
+  "name": "lerna-getting-started",
+  "scripts": {
+    "lerna": "node_modules/.bin/lerna",
+    "start": "npm -C ./packages/usage run start"
+  },
+  "devDependencies": {
+    "lerna": "^3.11.1"
+  }
+}
