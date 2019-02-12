@@ -5,6 +5,7 @@ Example for use [Lerna](https://lernajs.io/) for manage monorepo for various pac
 ## Running
 
 ```sh
-npm run lerna bootstrap
-npm run start
+yarn install
+yarn run lerna bootstrap
+yarn run start
 ```
